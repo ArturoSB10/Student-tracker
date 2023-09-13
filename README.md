@@ -2,9 +2,9 @@
 
 ## Order to run the scripts
 
-1. Tables.
-2. FillWithData.
-3. Queries.
+1. Tables (structures creation).
+2. FillWithData (fill).
+3. Queries (query according the given solicitudes).
 
 ## About
 
